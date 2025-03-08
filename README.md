@@ -43,7 +43,8 @@ bash
 
 nvcc cuda_code.cu -o cuda_code
 ./cuda_code
-📖 Key Takeaways
+
+Key Takeaways
 Parallel computing (CUDA) significantly reduces execution time
 GPU acceleration is ideal for large-scale image processing tasks
 Thrust simplifies parallel computation compared to raw CUDA kernels
